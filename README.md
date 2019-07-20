@@ -19,7 +19,7 @@
 ![screenshot](https://github.com/TheKingOfDuck/bcScan/blob/master/screenshot.png)
 
 
-# 该项目没打算更新 请有需要的师傅自行修改代码或者等key师傅的工具。
+# 20190720:写了一个新版本，效率高得多，等玩够了就开源出来吧
 
 
 
